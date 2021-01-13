@@ -1,7 +1,7 @@
 *12 de Janeiro, 2021*
 ---
 
-![Project_Marijuana Legalization](https://github.com/rodolffoterra/Projct_Marijuana_Legalization_TS_Part1/blob/main/imagnes/marijuana.jfif)
+![Project_Marijuana Legalization](https://raw.githubusercontent.com/rodolffoterra/Projct_Marijuana_Legalization_TS/main/imagnes/layout.png)
 
 ### Definição do Problema
 
