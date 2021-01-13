@@ -28,3 +28,15 @@ Vamos realizar uma análise de dados com base em séries temporais e análises g
 Os dados usados neste projeto estão disponíveis publicamente e são oferecidos pelo portal de dados abertos do governo de Los Angeles.
 
 Você é favor ou contra à legalização da Maconha? Acompanhe o projeto passo a passo, leia atentamente cada comentário e então emita sua opinião com base em dados.
+
+Para visualizar a análise completa feita neste projeto, acesse este link:
+
+* [Projeto](https://github.com/rodolffoterra/Projct_Marijuana_Legalization_TS/blob/main/Projct_Marijuana_Legalization_TS_Part1.ipynb)
+
+**Nota:** Para visualizar outros projetos realizados e portifólios:
+
+* www.rodolfoterra.com    
+
+
+ ![Ciência de Dados](https://raw.githubusercontent.com/rodolffoterra/Project_KPIs/main/imagem/logo.png)
+
