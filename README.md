@@ -53,7 +53,8 @@ Para visualizar a análise completa feita neste projeto, acesse este link:
      
      * [Parte.5 - Modelagem Preditiva, Análise de Séries Temporais, Conclusões Finais e Apresentação do Sumário Executivo do Projeto](https://github.com/rodolffoterra/Projct_Marijuana_Legalization_TS/blob/main/Projct_Marijuana_Legalization_TS_Part5.ipynb)
          
-     * [Dashboard](https://rodolfoterra.shinyapps.io/Dashboard/)
+     * **Dashboard:**
+ ![Dashboard](https://raw.githubusercontent.com/rodolffoterra/Project_Marijuana_Legalization_TS/main/imagnes/Dashboard.png)
 
 
 
